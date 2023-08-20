@@ -15,4 +15,12 @@
 
 .container p {
     width: 85%;
+    text-align: center;
+    font-size: 1.25em;
+}
+
+.container-img img {
+    width: 350px;
+    padding: 10px;
+    margin: 0 auto;
 }
